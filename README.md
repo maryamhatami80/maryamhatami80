@@ -1,126 +1,90 @@
-## 👋 Hi, I'm [Maryam Hatami]
+# Hi there 👋 I'm Maryam Hatami
 
-### Civil Engineering Student | AI Enthusiast | Python Learner | Content Creator
+### Civil Engineering Student • AI Enthusiast • Python Learner
 
-I'm a Civil Engineering student with a strong passion for Artificial Intelligence, software development, and technology. I enjoy exploring innovative ideas, learning new skills, and creating meaningful projects that combine engineering with intelligent software solutions.
+I'm passionate about building practical skills at the intersection of engineering and artificial intelligence. I enjoy learning, creating, and sharing projects that solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Civil Engineering Student
-- 🎂 Born in 2002
-- 🤖 Passionate about Artificial Intelligence & Prompt Engineering
-- 🐍 Currently learning Python, Git, GitHub, and AI tools
-- 💻 Interested in Software Development and Open Source
+- 🎓 Civil Engineering student
+- 🤖 Interested in Artificial Intelligence
+- 🐍 Learning Python, Git & GitHub
+- 💡 Exploring Prompt Engineering
+- 🎨 Experience in Social Media Management & Content Creation
 - 🌍 Fluent in English
-- 🇮🇹 Currently learning Italian
-- 🎨 Experienced in Social Media Management & Visual Content Creation
-- 🚀 Always excited to learn new technologies and build useful projects
-- 🎯 Goal: Combine Civil Engineering with Artificial Intelligence to develop impactful engineering solutions.
+- 🇮🇹 Learning Italian
+- 📚 Always curious to learn something new
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- Python Programming
+- Python
 - Git & GitHub
-- Prompt Engineering
 - AI Tools
-- Machine Learning Fundamentals
-
----
-
-## 💡 Interests
-
-- Artificial Intelligence
-- Prompt Engineering
-- Software Development
-- Civil Engineering Technology
-- Engineering Innovation
-- Automation
-- Data Analysis
+- Machine Learning Basics
 - Open Source
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
-### 👨‍💻 Programming & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
-- Python
-- Git
-- GitHub
-- Markdown
+---
 
-### 🤖 AI
+## 🌱 Goals
 
-- Prompt Engineering
-- AI Tools
-
-### 🎨 Creative Skills
-
-- Social Media Management
-- Visual Content Creation
-- Canva
-
-### 🌍 Languages
-
-- 🇬🇧 English (Fluent)
-- 🇮🇹 Italian (Learning)
+- Build useful projects
+- Improve Python skills
+- Learn AI and Machine Learning
+- Contribute to Open Source
+- Connect Engineering with AI
 
 ---
 
 ## 💼 Experience
 
-### Social Media & Visual Content Creator
+**Social Media Management**
 
-- Managed social media pages and content planning.
-- Created engaging visual content for different platforms.
-- Designed creative posts, stories, and promotional materials.
-- Improved audience engagement through visual storytelling.
-
----
-
-## 🎓 Education
-
-### Civil Engineering
-
-I'm passionate about discovering how Artificial Intelligence can improve engineering, automation, and real-world problem solving.
+- Content planning
+- Visual content creation
+- Creative design
+- Audience engagement
 
 ---
 
-## 🎯 GitHub Goals
+## 🌟 Beyond Tech
 
-- 🚀 Build useful open-source projects
-- 🐍 Master Python
-- 🤖 Develop AI-powered applications
-- 📚 Learn Machine Learning
-- 🤝 Contribute to open-source communities
-- 🌍 Combine AI with Civil Engineering
-- 💡 Continue learning and improving every day
+- 🏋️ Fitness
+- 🍳 Cooking
+- 🍰 Baking
+- 👗 Fashion
+- ✈️ Exploring new cultures
 
 ---
 
-## 🌟 Beyond Coding
+## 📫 Connect with Me
 
-When I'm not studying or coding, you can find me:
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:mh4552665@gmail.com)
 
-- 👗 Exploring Fashion & Personal Style
-- 🍳 Cooking new recipes
-- 🍰 Baking desserts and pastries
-- 🏋️ Working out and staying active
-- 📖 Learning new technologies
-- ✈️ Exploring new cultures and ideas
+> *Learning every day. Building one project at a time.*
 
 ---
 
-## 📫 Connect With Me
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
 
-- 💼 LinkedIn: 
-- 📧 Email: mh4552665@gmail.com
-- 📷 Instagram: 
-- 🐦 X (Twitter): 
-
-
-⭐ *"Learning, creating, and improving one project at a time."*
+<!--
+Future Goals:
+✔ Open Source
+✔ Python
+✔ AI
+✔ Machine Learning
+✔ Engineering
+-->
